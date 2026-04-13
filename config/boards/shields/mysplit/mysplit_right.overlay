@@ -1,0 +1,2 @@
+#include "mysplit.dtsi"
+&default_transform { col-offset = <5>; };
